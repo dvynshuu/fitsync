@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Hero from "../src/components/hero";
+import Hero from "../src/components/Hero";
 import Workout from "./components/Workout";
 import Generator from "./components/Generator";
 import { generateWorkout } from "./utils/functions";
